@@ -1,1 +1,1 @@
-Some information about project.
+Andrii Boiko
